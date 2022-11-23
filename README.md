@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="logo.png" alt="logo"/>
+    <img src="logo.png" alt="grow your own adventure logo"/>
 </p>
 
 This is the static site for the Grow Your Own Adventure app (i.e, the story "Quest for the Silver Goblet" is baked in).  It was written using next.js [Next.js](https://nextjs.org/), bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).  Note that the non-static version (see the gyoa repo) requires that you have a Google Firestore account, and it uses the Storage and Firebase services, to store Base64 encoded audio files and json story scripts respectively.  The gyoa app was written to run on [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme); its free tier is more than sufficient.
